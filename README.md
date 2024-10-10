@@ -8,4 +8,4 @@
 你可以使用 `go get` 安装该 SDK：
 
 ```bash
-go get github.com/yourusername/myvideosdk
+go get github.com/HeartGarlic/vidfusion
