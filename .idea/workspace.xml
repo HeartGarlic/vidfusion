@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d7a569a-bf0f-4395-bdff-c8b6930723c6" name="更改" comment="">
+    <list default="true" id="3d7a569a-bf0f-4395-bdff-c8b6930723c6" name="更改" comment="修改README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,67 +32,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "Go 构建.go build vid-fusion.executor": "Run",
-    "Go 测试.vid_fusion 中的 BenchmarkVideoSDK_GetMP3Duration.executor": "Run",
-    "Go 测试.vid_fusion 中的 Benchmark_runCommand.executor": "Run",
-    "Go 测试.vid_fusion 中的 Benchmark_runCommandAndExtractFloat.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestAddBackgroundMusic.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestAddImageOverlay.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestAddSubtitles.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestCleanup.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestConcatenateVideos.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestCropVideo.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestCropVideoTimeline.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestDemo.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestFlipVideo.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestGetNextTempFile.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestMute.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestMuteTrack.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestNewVideoSDKV2.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestScaleUpVideo.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestSpeedUpVideo.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_AddBackgroundMusic.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_AddImageOverlay (1).executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_AddImageOverlay (2).executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_AddImageOverlay.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_AddSubtitles (1).executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_AddSubtitles (2).executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_AddSubtitles.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (1).executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (2).executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (3).executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (4).executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (5).executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_ConcatenateVideos.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_CropVideo.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_CropVideoTimeline.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_FlipVideo.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_GetMP3Duration.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_GetVideoDuration.executor": "Run",
-    "Go 测试.vid_fusion 中的 TestVideoSDK_MuteVideo.executor": "Run",
-    "Go 测试.vid_fusion 中的 Test_ExampleNewVideoSDKV2.executor": "Run",
-    "Go 测试.vid_fusion 中的 Test_V3.executor": "Run",
-    "Go 测试.vid_fusion 中的 Test_getRandomFiles.executor": "Run",
-    "Go 测试.vid_fusion 中的 Test_runCommand.executor": "Run",
-    "Go 测试.vid_fusion 中的 Test_runCommandAndExtractFloat.executor": "Run",
-    "Go 测试.vidfusion 中的 TestNewVideoSDKV2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "D:/work/go/vidfusion",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;Go 构建.go build vid-fusion.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 BenchmarkVideoSDK_GetMP3Duration.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 Benchmark_runCommand.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 Benchmark_runCommandAndExtractFloat.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestAddBackgroundMusic.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestAddImageOverlay.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestAddSubtitles.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestCleanup.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestConcatenateVideos.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestCropVideo.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestCropVideoTimeline.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestFlipVideo.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestGetNextTempFile.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestMute.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestMuteTrack.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestNewVideoSDKV2.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestScaleUpVideo.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestSpeedUpVideo.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_AddBackgroundMusic.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_AddImageOverlay (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_AddImageOverlay (2).executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_AddImageOverlay.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_AddSubtitles (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_AddSubtitles (2).executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_AddSubtitles.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (2).executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (3).executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (4).executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample (5).executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_CompleteExample.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_ConcatenateVideos.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_CropVideo.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_CropVideoTimeline.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_FlipVideo.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_GetMP3Duration.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_GetVideoDuration.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 TestVideoSDK_MuteVideo.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 Test_ExampleNewVideoSDKV2.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 Test_V3.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 Test_getRandomFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 Test_runCommand.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vid_fusion 中的 Test_runCommandAndExtractFloat.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.vidfusion 中的 TestNewVideoSDKV2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work/go/vid_fusion_demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\work\go\vid-fusion" />
@@ -197,6 +197,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改README.md" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
